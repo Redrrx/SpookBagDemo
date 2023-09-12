@@ -1,7 +1,7 @@
 # SpookBagDemo
 
-Spookbag is a browser automation framework that is specialized for stealth and bot counter-countermeasures.
-
+Spookbag is a browser automation framework that is specialized for stealth and bot counter-countermeasures,
+its POC has been proven and the work continues on it as long as it remains viable.
 
 
 ## Current stealth and CCM capabilities
@@ -19,3 +19,16 @@ Spookbag is a browser automation framework that is specialized for stealth and b
 
 
 
+## Demonstrations
+I will be posting better and clearer demonstrations as those hide too much
+
+
+
+* Cloudflare captcha on nopecha test website.
+
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Redrrx/SpookBagDemo/blob/main/spookbagdemo.gif?raw=true)https://github.com/Redrrx/SpookBagDemo/blob/main/spookbagdemo.gif?raw=true)
+
+
+* Datadome test on https://antoinevastel.com/bots/datadome
+
+![]([https://github.com/Redrrx/SpookBagDemo/blob/main/spookbagdemo_datadome.gif?raw=true])
