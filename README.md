@@ -42,11 +42,11 @@ I will be posting better and clearer demonstrations as those hide too much and w
 
 
 
-* Cloudflare captcha on nopecha test website.
+* Cloudflare captcha on nopecha test website. (This takes a little time due me pressing the debugger steps)
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Redrrx/SpookBagDemo/blob/main/spookbagdemo.gif?raw=true)https://github.com/Redrrx/SpookBagDemo/blob/main/spookbagdemo.gif?raw=true)
+![CF](https://github.com/Redrrx/SpookBagDemo/blob/main/spookbagdemo.gif?raw=true)
 
 
 * Datadome test on https://antoinevastel.com/bots/datadome
 
-![]([https://github.com/Redrrx/SpookBagDemo/blob/main/spookbagdemo_datadome.gif?raw=true])
+![Datadome](https://github.com/Redrrx/SpookBagDemo/blob/main/spookbagdemo_datadome.gif?raw=true])
